@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Lua_sky
-- 👀 I’m interested in Games, a lot hehe. 
-- 🌱 I’m currently learning Game Maker Language and trying c#
-- 💞️ I’m looking to collaborate on Game development
-- 📫 How to reach me: guirumerodriesu@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: i discovered that i'm trans because i've put a cap that made me look like chloe from life is "strange and i liked" lol.
+- 👋 Hi, I’m guirume__;
+- 👀 I’m interested in Games, a lot hehe.;
+- 🌱 I’m currently learning Game Maker Language and trying c#, java, html;
+- 💞️ I’m looking to collaborate on Game development;
+- 📫 How to reach me: guirumerodriesu@gmail.com;
+- 😄 Pronouns: prefer not to specify;
+- ⚡ Fun fact: i like potato :D;
 
 <!---
 guirume/guirume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
